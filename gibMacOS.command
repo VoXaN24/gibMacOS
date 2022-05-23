@@ -41,9 +41,15 @@ class gibMacOS:
             "sierra" : "10.12",
             "high sierra" : "10.13",
             "mojave" : "10.14",
+<<<<<<< HEAD
             "catalina" : "10.15",
             "big sur" : "11",
             "monterey" : "12"
+=======
+            "catalina" : "10.15"
+            "big sur" : "11.0"
+            "monterey" : "12.0"
+>>>>>>> parent of 46e3bbf (Update gibMacOS.command)
         }
         self.current_catalog = "publicrelease"
         self.catalog_data    = None
